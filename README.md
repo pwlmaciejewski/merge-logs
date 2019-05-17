@@ -17,5 +17,5 @@ npm install -g merge-logs
 ## Usage
 
 ```sh
-merge-logs -l foo -l bar -l baz -- 'docker logs -f container1' 'docker logs -f container2' 'docker logs -f container3' 
+merge-logs -l foo -l bar -- 'docker logs -f container1' 'docker logs -f container2'
 ```
