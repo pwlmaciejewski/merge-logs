@@ -5,13 +5,13 @@ Merge multiple sources and pipe them on stdout labeled
 ## Installation
 
 ```sh
-    yarn global add merge-logs
+yarn global add merge-logs
 ```
 
 or
 
 ```sh
-    npm install -g merge-logs
+npm install -g merge-logs
 ```
 
 ## Usage
