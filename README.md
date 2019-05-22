@@ -8,12 +8,6 @@ Merge multiple sources and pipe them on stdout labeled
 yarn global add merge-logs
 ```
 
-or
-
-```sh
-npm install -g merge-logs
-```
-
 ## Usage
 
 ```sh
