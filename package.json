@@ -10,7 +10,7 @@
     "chalk": "^2.4.2",
     "highland": "^2.13.4",
     "ramda": "^0.26.1",
-    "yargs": "^13.2.4"
+    "yargs": "^15.0.0"
   },
   "bin": {
     "merge-logs": "./index.js"
