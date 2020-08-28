@@ -5,7 +5,7 @@ Merge multiple sources and pipe them on stdout labeled
 ## Installation
 
 ```sh
-yarn global add merge-logs
+npm i -g merge-logs
 ```
 
 ## Usage
