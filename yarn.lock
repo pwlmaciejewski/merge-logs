@@ -120,9 +120,9 @@ has-flag@^3.0.0:
   integrity sha1-tdRU3CGZriJWmfNGfloH87lVuv0=
 
 highland@^2.13.4:
-  version "2.13.4"
-  resolved "https://registry.yarnpkg.com/highland/-/highland-2.13.4.tgz#c8befa3f4012c9033728bc2250f5d3ba8f64b634"
-  integrity sha512-r+YlbnBhCTcrcVzBpzPcrvB0llVjeDWKuXSZVuNBe5WgQJtN2xGUUMZC9WzHCntNIx0rskVernxLoFJUCkmb/Q==
+  version "2.13.5"
+  resolved "https://registry.yarnpkg.com/highland/-/highland-2.13.5.tgz#d55cd8ac3f67a00fad79918668d51493222cfcc2"
+  integrity sha512-dn2flPapIIAa4BtkB2ahjshg8iSJtrJtdhEb9/oiOrS5HMQTR/GuhFpqJ+11YBdtnl3AwWKvbZd1Uxr8uAmA7A==
   dependencies:
     util-deprecate "^1.0.2"
 
@@ -335,7 +335,7 @@ supports-color@^5.3.0:
 util-deprecate@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
-  integrity sha1-RQ1Nyfpw3nMnYvvS1KKJgUGaDM8=
+  integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
 which-module@^2.0.0:
   version "2.0.0"
